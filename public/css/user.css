@@ -1,0 +1,52 @@
+body {
+    font-family: National2CompressedWeb,"Helvetica Condensed","Arial Narrow",sans-serif;
+    letter-spacing: .05rem;
+}
+
+body p {
+    margin: 0;
+}
+
+.rem1 {
+    font-size: 1rem;
+}
+
+.rem1p2 {
+    font-size: 1.2rem;
+}
+
+.rem1p5 {
+    font-size: 1.5rem;
+}
+
+.rem2 {
+    font-size: 2rem;
+}
+
+.rem3 {
+    font-size: 3rem;
+}
+
+.rem4 {
+    font-size: 4rem;
+}
+
+.img-fit {
+    object-fit: contain;
+}
+
+.avator {
+    object-position:center;
+    height: 6rem;
+    width: 6rem;
+    border: 1px solid rgba(0, 0, 0, 0.28);
+    border-radius: 20px;
+}
+
+.avator-meetup {
+    object-position:center;
+    height: 10rem;
+    width: 15rem;
+    border: 1px solid rgba(0, 0, 0, 0.28);
+    border-radius: 20px;
+}
